@@ -1,0 +1,15 @@
+2019-12-07 15:03:32.765  INFO 6860 --- [main] com.test.RegisterTest                    : Starting RegisterTest on HDB-20190422TYC with PID 6860 (D:\workspace\member\target\classes started by Administrator in D:\workspace\member)
+2019-12-07 15:03:32.766  INFO 6860 --- [main] com.test.RegisterTest                    : The following profiles are active: sit1
+2019-12-07 15:03:37.611  INFO 6860 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-07 15:03:38.151  INFO 6860 --- [main] com.test.RegisterTest                    : Started RegisterTest in 6.049 seconds (JVM running for 8.337)
+2019-12-07 15:03:38.293  INFO 6860 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-07 15:06:21.880  INFO 6164 --- [main] com.test.RegisterTest                    : Starting RegisterTest on HDB-20190422TYC with PID 6164 (D:\workspace\member\target\classes started by Administrator in D:\workspace\member)
+2019-12-07 15:06:21.882  INFO 6164 --- [main] com.test.RegisterTest                    : The following profiles are active: sit1
+2019-12-07 15:06:26.068  INFO 6164 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-07 15:06:26.557  INFO 6164 --- [main] com.test.RegisterTest                    : Started RegisterTest in 5.287 seconds (JVM running for 7.5)
+2019-12-07 15:06:26.703  INFO 6164 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-07 15:20:29.167  INFO 9240 --- [main] com.test.RegisterTest                    : Starting RegisterTest on HDB-20190422TYC with PID 9240 (D:\workspace\member\target\classes started by Administrator in D:\workspace\member)
+2019-12-07 15:20:29.169  INFO 9240 --- [main] com.test.RegisterTest                    : The following profiles are active: sit1
+2019-12-07 15:20:33.389  INFO 9240 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-07 15:20:33.894  INFO 9240 --- [main] com.test.RegisterTest                    : Started RegisterTest in 5.415 seconds (JVM running for 7.605)
+2019-12-07 15:20:34.010  INFO 9240 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
